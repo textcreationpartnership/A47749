@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Now or never, or, The last cast for England humbly addressed to both Houses of Lords and Commons.</title>
+            <author>Leslie, Charles, 1650-1722.</author>
+         </titleStmt>
+         <extent>Approx. 28 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A47749</idno><idno type="EEBO-CITATION">12618988</idno>
+  <idno type="VID">64456</idno>
+  <idno type="EEBO-PROQUEST">2248560642</idno>
+  
+            <idno type="STC">Wing L1138</idno>
+            <idno type="STC">ESTC R21900</idno>
+            <idno type="OCLC">12618988</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A47749)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 64456)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 963:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Now or never, or, The last cast for England humbly addressed to both Houses of Lords and Commons.</title>
+                  <author>Leslie, Charles, 1650-1722.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1696]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+                  <note>Attributed to Charles Leslie. cf. NUC pre-1956.</note>
+                  <note>Caption title.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  Politics and government --  1689-1702.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="speech">
+            <pb facs="tcp:64456:1"/>
+            <pb n="1" facs="tcp:64456:1"/>
+            <head>NOW Or NEVER. OR; <hi>The Last Cast for England.</hi>
+            </head>
+            <head type="sub">Humbly Addressed to Both Houses of LORDS and COMMONS.</head>
+            <p>AS nothing is so Fatal and Destructive to the Nation, as a Corrupti<g ref="char:EOLhyphen"/>on of their Representatives in Parliament; and as such wretched Betrayers of their Country deserve all the Ignominy and Resent<g ref="char:EOLhyphen"/>ment of those by whom they have been Intrusted: So, on the other hand, those Worthy <hi>Patriots,</hi> who lay themselves out for the good of their Country, who watch and guard against every Danger that seems to threaten her Peace or Welfare, do truly merit all the Praise and Gratitude, that can be paid them from a Sensible, and a Thankful People.</p>
+            <p>And it must, with Justice, be own'd, That this Parliament has, in a Great measure, answer'd the Expectation of their <hi>Principals,</hi> by obtaining so many good Country Bills, which had been denied to their Predecessors. Particular<g ref="char:EOLhyphen"/>ly, that Excellent, and so long wish'd for Bill, <hi>For Regulating of Trials in Cases of Treason.</hi> And that for which You will be remembered to after Ages; <hi>Recti<g ref="char:EOLhyphen"/>fying the gross Abuses in the Election of Members to Serve in Parliament,</hi> which was a Corruption of our very Fountain, an Error in the first Concoction, not after<g ref="char:EOLhyphen"/>wards to be amended; and now most Honourably Reform'd by those who were Principally concern'd, this <hi>Bill</hi> having mov'd from the <hi>Commons.</hi> To whom the Thanks of the Nation is also justly Paid for the Pains they have taken in the Bill of <hi>Coinage,</hi> of which there was so great Need.</p>
+            <p>They have done so many Good things, that I dare presume they will not be offended at the true <hi>English</hi> Freedom of any who shall, with Decency, offer to their Consideration, wherein they may happily Perfect what they have so Au<g ref="char:EOLhyphen"/>spiciously begun.</p>
+            <pb n="2" facs="tcp:64456:2"/>
+            <p> In order to which, I do, with all Humility, and due Regard to Your Ho<g ref="char:EOLhyphen"/>nours; and in the deepest Sense, and Concern for my Country, offer;</p>
+            <p>I. THAT all the Pains You have so Worthily taken for the Regulation of our <hi>Silver</hi> Coin will be lost, unless You take effectual Care to secure a Suffici<g ref="char:EOLhyphen"/>ent Quantity of it from being sent Abroad; such a Quantity as will be Suffici<g ref="char:EOLhyphen"/>ent to Circulate in the Nation, and carry on Trade. Otherwise what You Proposed as a Remedy will prove much worse than the Disease. For Your Honours cannot but be sensible that, by the new Regulation, all the <hi>Silver</hi> Coin of the Kingdom will soon come into one Hand: And that His present Occasions call for more than all the now Current <hi>Silver</hi> Cash in the Nation, of which, Your Honours have made an Estimate, and found it (to our Astonish<g ref="char:EOLhyphen"/>ment) not to exceed three Millions. But when it shall be new Coin'd, it will hardly amount to one Million: Because what has been already Melted is found to Weigh from 7 to 15 Pound Weight, <hi>per Cent.</hi> none higher; whereas every 100 <hi>l.</hi> Sterling weighs 32 Pound Weight.</p>
+            <p>Now besides the vast Arrears due to the <hi>Army</hi> and <hi>Navy</hi> (notwithstanding that all Demanded was every Year given for the War) and what must go to Supply the Deficiency of past Funds, there is more Demanded now by the Mi<g ref="char:EOLhyphen"/>nisters of the several Foreign Princes (or Pensioners) of the Confederacy, than all the abovementioned Silver Cash will answer, when it comes to be New Coin'd. One of these <hi>Ministers</hi> having been lately in the <hi>Tower,</hi> and at <hi>Westmin<g ref="char:EOLhyphen"/>ster,</hi> where the Cash is melted down; and having inquired into the Quantity, that was to be Coin'd, said, that it would not all be sufficient to answer the Demands of his Master alone. And a Yacht lies ready to carry to <hi>Holland,</hi> some of our new Melted Cash, to stop Gaps there, which they will Coin into their base <hi>Dutch Skillings,</hi> and make a double Advantage; for we must take those again in Exchange for our New Coin'd Money, when we carry it over, next Campaign.</p>
+            <p>And if Your Honours take not speedy Care, the New Melted Mony will be Tansported, as fast as it can be Coin'd, or put into <hi>Ingots</hi> and <hi>Barrs,</hi> to Sup<g ref="char:EOLhyphen"/>ply the <hi>Confederates;</hi> more of whom are Gaping for it than it can Satisfie.</p>
+            <p>And as for our <hi>Gold,</hi> the Loss in sending that beyond Sea bears Proportion to that of our <hi>Clipt Silver:</hi> For our <hi>Guineas</hi> go in <hi>Holland,</hi> but for 22 <hi>s.</hi> while they are with us at 30 <hi>s.</hi> and <hi>Luid'ores</hi> go there for no more than 17 <hi>s.</hi> 6 <hi>d.</hi> And here they are 23 <hi>s.</hi> a Piece. Insomuch that the carrying of <hi>Guineas</hi> back and forward, to and from <hi>Holland</hi> is become, of it self, a Trade with the <hi>Dutch;</hi> and it is such a one, as in a few Returns, must double the Principal Summ; and must eat us out, if a Stop be not immediately put to it: Which I cannot see how it can be done, if our <hi>Silver</hi> be Transported: We must then lie at the Mercy of the <hi>Dutch,</hi> to put what Value they please upon our <hi>Gold.</hi>
+            </p>
+            <p n="2">II. AND now give me leave, before our last Stake is taken from Us, to cast one sad Look back upon all that Mass of Mony we have already given. We have not given less than Six Millions a Year, one Year with another, for these Seven Years past, which amounts to 42 Millions. Now to compute in a
+<pb n="3" facs="tcp:64456:2"/>more familiar, and sensible way, Ten thousand Pounds is a Waggon Load, so that a Million is 100 Waggon Loads; and Forty two Millions are Four thou<g ref="char:EOLhyphen"/>sand Two hundred Waggon Loads; which, allowing but five Horses to a Wag<g ref="char:EOLhyphen"/>gon, would reach from <hi>London</hi> to <hi>Harwich:</hi> which is such a Sight of Mony as <hi>Mexico</hi> or <hi>Peru</hi> cannot shew: And more than has been given by Parliament (the former <hi>Revolution</hi> of 41 only excepted) since <hi>William</hi> the Conqueror, put it all together.</p>
+            <p n="3">III. TO answer this Prodigious Flux of Mony, good Management would have been expected, and Great things done for the Good and Interest of the Nation.</p>
+            <p>As for the Interest of <hi>England.</hi>
+               <list>
+                  <item>1. In Providing sufficient Convoys (as the <hi>Dutch</hi> have done) to Secure the Actual Trade.</item>
+                  <item>2. In Defending our Factories abroad, in <hi>Guinea,</hi> and elsewhere, to secure our Trading for the Future.</item>
+                  <item>3. In having Cautionary <hi>Towns</hi> delivered to Us in <hi>Holland,</hi> and among our other <hi>Confederates,</hi> whom we pretend to Assist (as Q. <hi>Elizabeth,</hi> and K. <hi>Charles</hi> 2. of late, and other of our Natural Born Princes have done, on lesser Occasions) to Ensure Us, at their hands, for what we Expend in their Defence: At least for so much as shall exceed our Reasonable Quota in the War.</item>
+                  <item>4. In trusting the Interest of <hi>England</hi> to be Manag'd by <hi>Dutch</hi> Ambassadors in Foreign Courts, who are Invested likewise with the Character of Ambassadors from <hi>England:</hi> Especially considering that <hi>Holland</hi> was, is, and must be the Great Rival to <hi>England</hi> for the Trade of the World:</item>
+               </list> And consequently, how can it consist with the Interest of <hi>England</hi> to have <hi>Dutchmen</hi> in our <hi>Parliaments</hi> and <hi>Councils?</hi> E<g ref="char:EOLhyphen"/>specially, that they should be Commanders in Chief of our <hi>Armies,</hi> whether at Home or Abroad? Of this, Your Lordships were very sensible, and Propo<g ref="char:EOLhyphen"/>sed Remedies, as of other Grievances, in Your <hi>Address</hi> of the 18 of <hi>February,</hi> 1692, which I have hereunto Annexed, to save Repetition, and for the Weight which it ought to carry in the Nation, as well as for the Proper Vindication of Your Lordship's Honours; and your Just Concern for the Honour and Inte<g ref="char:EOLhyphen"/>rest of Your Country. And because no Regard has been had to the said <hi>Ad<g ref="char:EOLhyphen"/>dress, Foreigners</hi> Commanding in Chief, to this Day, in <hi>England,</hi> as well as elsewhere, I would Humbly move, that the Honourable House of Commons should join with Your Lordships in Renewing the said <hi>Address,</hi> or other such like, as to Your Wisdoms shall seem Meet, including other Just Grievances, which have been Practised since that time, to the <hi>Dishonour,</hi> as well as <hi>Prejudice</hi> of <hi>England;</hi> wherein it is hoped Your Honours will not forget that Mark of <hi>Slavery,</hi> or <hi>Conquest,</hi> which the <hi>Dutch</hi> have imposed upon Us, in Pressing our Seamen out of our Merchantships, which go thither, or forcing the Masters to Redeem them at 25 Gilders a Man, or what Summ they please to Dictate.</p>
+            <p>Surely the Redress of these Abuses, and much more, might have been ex<g ref="char:EOLhyphen"/>pected, for the Good and Interest of <hi>England,</hi> in Return for the many Mil<g ref="char:EOLhyphen"/>lions beforementioned, so freely (not to say Lavishly) bestowed.</p>
+            <p n="4">IV. AND when the Ways and Means were so hard to be found, and grow harder and harder, to Raise such Incredible Sums, common Gratitude or Ho<g ref="char:EOLhyphen"/>nesty,
+<pb n="4" facs="tcp:64456:3"/>would have oblig'd to the best Management that could be; and not to <hi>Spur a Free Horse to Death.</hi> But, on the Contrary, greater Grants have been of late obtain'd from the Crown, of mere Special Favour, and that by <hi>Fo<g ref="char:EOLhyphen"/>reigners,</hi> than ever were Given, even for the Rewards of Greatest Services, by the most Profuse of all our Kings. Insomuch that many of the <hi>Dutch</hi> have Purchased Great Estates, and Enrich'd themselves beyond Seas, by the <hi>Pensions</hi> and <hi>Gifts,</hi> which they have Receiv'd here. Nay not only <hi>Mony,</hi> without measure, has been Given to them; but the <hi>Lands</hi> and <hi>Inheritance</hi> of the <hi>Crown,</hi> has been alienated to them, as the Estate of <hi>Theobalds,</hi> and the Lands belong<g ref="char:EOLhyphen"/>ing to the Prince of <hi>Wales,</hi> Granted to <hi>Benting,</hi> Created Earl of <hi>Portland,</hi> and his Heirs. The Forfeited Estate of Sir <hi>Pat. Trant,</hi> of Three thousand Pounds <hi>per Annum,</hi> to <hi>Rovignie,</hi> Created Viscount <hi>Galloway.</hi> And the Estates of the Earl of <hi>Limerick,</hi> and Lord of <hi>Slane,</hi> worth above Five thousand Pounds <hi>per Annum,</hi> to <hi>Ginkle,</hi> Created Earl of <hi>Athlone.</hi> Let me add the Duke of <hi>York</hi>'s Estate in <hi>Ireland,</hi> Granted to Mrs. <hi>Villars,</hi> for secret Service, and her Heirs, worth Fourteen thousand Pounds a Year. I have to add to these, what I have not yet found Notic'd, of a Grant in <hi>May,</hi> 1694. to <hi>Hen. de Nassaw,</hi> Seignior <hi>d' Overkerk,</hi> his Heirs and Assigns, of the Yearly Rent of <hi>Eight hundred Pounds,</hi> Payable Half Yearly, out of the Revenues of the Crown in <hi>South-Wales,</hi> and Two hundred Pounds <hi>per Annum,</hi> out of the Revenues of the Crown in <hi>North-Wales.</hi> The first Payment was the <hi>Michaelmas</hi> after the Date. There is ano<g ref="char:EOLhyphen"/>ther Grant to the same <hi>Overkerk</hi> in <hi>May,</hi> 1695. of an Annuity of <hi>Two thousand Pounds per Annum,</hi> out of the Revenue of the Dutchy of <hi>Cornwall,</hi> to hold to him and his Heirs for ever. This is Transcribed out of the Dockets.</p>
+            <p>And by the Answer given to Your Address concerning the Lands of the Pr. of <hi>Wales,</hi> Granted to <hi>Meen Heer Benting,</hi> now E. of <hi>Portland,</hi> that he must be Gratified <hi>another way,</hi> it would seem, that if all these Grants be Re-assumed by Act of Parliament, it must be by way of <hi>Purchase;</hi> for that these <hi>Grantees</hi> are to have the Value answer'd to them in Mony: And that must be Spar'd out of the Taxes You Appropriate to the War; and the Arrears at the End of this Year, to be by You paid, will be so much the Greater,</p>
+            <p n="5">V. THERE is a Greater Danger yet approaching than all this Consum<g ref="char:EOLhyphen"/>ption of our <hi>Mony;</hi> And that is, the total Subjection or <hi>Conquest</hi> (as some have been pleased already to stile it) of the Nation, by the Importation of Greater Numbers of <hi>Foreigners;</hi> and these under a <hi>Foreign</hi> General, who now Com<g ref="char:EOLhyphen"/>mands in <hi>England;</hi> I cannot say they will Subdue the Nation, and Govern by the Law of Arms; But it will be so far in their Power, that whoever Reflects how <hi>Oliver,</hi> by a Standing Army of about 20000 Men, kept under the many more Thousands of <hi>England,</hi> who were not only willing to Assert the King's Cause, but made several Attempts, in several Parts of the Kingdom, and their Insurrections were as often Suppress'd; and how a few Guards were sufficient to Cut off the King's Head, at his own Gate, when there were 100 times as many in the Nation, and even in <hi>London,</hi> who would have been Glad to have Sacrificed their Lives for His Rescue, if it could have been attempted with any
+<pb n="5" facs="tcp:64456:3"/>Probability. But an Armed Power is an heavy thing; And it is very Difficult for <hi>Loose, Ʋnarm'd, Ʋndisciplin'd</hi> People to <hi>Plot, Combine, Assemble, Arm,</hi> and <hi>Marshal</hi> themselves without being <hi>Discovered</hi> and <hi>Crush'd</hi> by a small Standing Force, and a Face of Authority: I say, that whoever considers this, and many more Instances may be given of the like Nature, will think it an extreme Ha<g ref="char:EOLhyphen"/>zard if an Army of <hi>Foreigners</hi> be Permitted in this Kingdom; especially if our <hi>English</hi> Troops be sent Abroad to make room for them. And it is hard if out of 87440 Men, which is the <hi>Quota</hi> of <hi>England</hi> for this Year 1696. as delivered in to the House of Commons by the Earl of <hi>Ranelaugh, per</hi> Order from his Ma<g ref="char:EOLhyphen"/>ster; I say, it is hard if out of this Number 20000 may not be spar'd to remain in <hi>England,</hi> and to be Commanded by <hi>One of His Majesty's Subjects Born in this Kingdom,</hi> according to the annexed Address of Your Lordships.</p>
+            <p>The Pretence for bringing more <hi>Foreigners</hi> into <hi>England,</hi> is the Rumour of a Design'd Invasion from <hi>France.</hi>
+            </p>
+            <p>But if that were true, and not only Calculated to squeez more Mony, as it has been every Session of Parliament; it should rather be an Argument to keep the <hi>English</hi> Forces Here; and let the <hi>Foreigners</hi> we have already, go Defend their own Countries. But to Encrease the <hi>Foreigners,</hi> and send away the <hi>English,</hi> car<g ref="char:EOLhyphen"/>ries a strange Aspect; and I will not presume to Inform Your Honours of the Plain and Fatal Consequences.</p>
+            <p>But this we have an Account of, That <hi>Flat-Bottom'd Boats</hi> are Prepar'd, and more Preparing at <hi>Flushing,</hi> and other Places, whose Use is only for the Tran<g ref="char:EOLhyphen"/>sportation of Men and Horse. And that application has been made for <hi>Foreign</hi> Troops to be sent hither. That the <hi>Dutch</hi> have excused themselves, because they cannot spare their Troops from their own Necessary Defence. That there<g ref="char:EOLhyphen"/>upon others are agreed for of all Nations, <hi>Bavarians, Lunenburgers, Hessians,</hi> &amp;c. Our old Friends the <hi>Saxons</hi> and <hi>Danes</hi> too, and <hi>Swedes,</hi> if they can be pro<g ref="char:EOLhyphen"/>cur'd: and there is no doubt but that there will be enough found, to come for good Hire from Barren and Northern Climes, to so Rich and Noble a Country as <hi>England,</hi> where never any <hi>Army</hi> was known to Starve.</p>
+            <p>But instead of bringing over more <hi>Foreigners,</hi> it would become the Wisdom of an <hi>English Parliament,</hi> to know the Reason why those <hi>Foreign</hi> Troops, which the P. of <hi>Orange</hi> brought over with him, are not all this time, sent back, as he Promised in his Declarations. All the Reason which could be pretended for their Coming, was not to <hi>Conquer</hi> the Nation, for that he expressly disowns in his <hi>Declaration,</hi> but for the Security of his Person, in case Opposition had been made to him Here. But that being long since over, they must now be kept here for other Ends. The <hi>DƲTCH Blue Regiment</hi> of Guards (to name one among others) has not taken its Turn into <hi>Flanders,</hi> since the beginning of the War. Only sometimes <hi>Batallions</hi> have been taken out of it: But it is left to Guard <hi>White-Hall,</hi> while the <hi>English</hi> are sent to Defend their <hi>Frontiers,</hi> and bore the Brunt at <hi>Stein-Kirk, Landen, Namure,</hi> &amp;c.</p>
+            <p>But besides these <hi>Foreigners</hi> in open Arms amongst us, your Country do's ex<g ref="char:EOLhyphen"/>pect from Your Honours to take some Inspection in the Secret Militia of the
+<pb n="6" facs="tcp:64456:4"/>
+               <hi>French Resugees,</hi> who are privately Arm'd, Marshal'd, and Disciplin'd in the Out-Skirts, in and about <hi>London.</hi> This cannot be unknown to many of Your Honors. And they have been Recommended very affectionately to You; upon the 23 of <hi>Nov.</hi> last, which must be for Subsistance-Mony, or Half-Pay; for it cannot be merely upon the account of <hi>Charity;</hi> because, if that were the Case, there are much more Lamentable Spectacles of the <hi>English</hi> Nation (none of whom have been Recommended) and more deserving Your Honour's Consideration than any others whatsoever; These are the Many now <hi>Begging,</hi> and <hi>Starving</hi> Wives and Children of <hi>English Seamen</hi> and <hi>Soldiers,</hi> who have lost their Lives in this War, and whose Families are Ruin'd for the want of that Pay, which they Earn'd with their <hi>Blood.</hi>
+            </p>
+            <p>Besides these, there are Multitudes of others, whom the Consequences of the War, has ruin'd in their <hi>Trade,</hi> and are reduc'd to extreme Poverty; and not a Few who now <hi>Beg</hi> in our Streets, are brought to that Condition by being Sup<g ref="char:EOLhyphen"/>planted in their <hi>Trades,</hi> and Under-sold by these <hi>French Refugees;</hi> not one of whom ever yet put Hand to Plow, or took to any Country Labour, for which we might be the better for them, but set up their <hi>Trades</hi> in their <hi>Garrets,</hi> and being us'd to greater Frugality, are able to Under-Sell the <hi>English,</hi> and find their Profit so much in it, that they think not of the more Laborious Farming and Improving the Country, in which Method, they might be made <hi>Ʋseful,</hi> as they are now <hi>Hurtful,</hi> and a <hi>Burthen</hi> to the Country.</p>
+            <p>By these Means there is not one of the <hi>French Refugees</hi> seen Begging in out Streets, except one, who, I am told, was plac'd in Your Honour's way to <hi>Westminster,</hi> to move your Compassion. Nay, many of them have grown Rich, and built Fair Houses, and Tenant the best New-built Houses in the <hi>Strand,</hi> and elsewhere.</p>
+            <p>None of them have lost any thing, but many of them have Liv'd and Improv'd by this War, which has Ruined so many of the <hi>English.</hi>
+            </p>
+            <p>But I envy nothing that they have Gained; nor would I obstruct any Act of Charity towards them, or any others.</p>
+            <p>But Charity begins at Home. And our own Poor, who fill all the <hi>Streets, Lanes</hi> and <hi>Fields</hi> about the Town (several of whom, our <hi>Bills of Mortality</hi> of late, tell us, have been <hi>Starv'd</hi>) ought to have the Preference of these, who live, tho Poor, yet Sufficiently, in their own Houses and Lodgings.</p>
+            <p>In the next place. Giving of them <hi>Arms</hi> cannot come under the Notion of <hi>Charity,</hi> and their Numbers are so Considerable, as to be extreme Dangerous, should they be ill inclin'd, or that any Use, contrary to the Interest of <hi>England,</hi> should ever be made of them.</p>
+            <p>There are not fewer than 12, or 15 Thousand of them, in and about <hi>London</hi> and <hi>Westminster,</hi> which are, in a manner, Besieg'd by them; for they People al<g ref="char:EOLhyphen"/>most all the <hi>Suburbs.</hi>
+            </p>
+            <p>And their <hi>Principles</hi> and <hi>Temper</hi> are so well known; that, upon valuable Con<g ref="char:EOLhyphen"/>siderations, it is not doubted that they would scruple to <hi>Glen-Coe, Gaffney,</hi> or <hi>De<g ref="char:EOLhyphen"/>wit;</hi> I mean the <hi>Generality</hi> of them, and there are as few. <hi>Exceptions</hi> among 'em
+<pb n="7" facs="tcp:64456:4"/>of <hi>Good Nature,</hi> or <hi>Generosity,</hi> since they came hither, as amongst any Sort of People that we know.</p>
+            <p>And besides those in <hi>London,</hi> there are Great Numbers of them through most of the other Great Towns in <hi>England.</hi>
+            </p>
+            <p>Now if, beside all these, and all the <hi>Dutch</hi> Troops now in <hi>England,</hi> Your Honours shall Permit more <hi>Foreign Forces</hi> to be Imported, your Country will have Reason to think themselves Betray'd by You, whom they have Intrusted as their <hi>Watchmen</hi> and <hi>Guardians,</hi> to see that no Evil come to them, which is in the Power of Your Honours to Prevent.</p>
+            <p>And as they Gratefully acknowledge Your Honour's Care and Zeal for their Preservation, in Reiecting the Bill for <hi>Naturalization</hi> of all Foreigners, which has been Press'd every Session of Parliament almost since the Revolution: And gives us more than an Apprehension of strange Designs, not fit to be mention'd.</p>
+            <p>As Your Honour's true <hi>ENGLISH Courage</hi> and <hi>Wisdom,</hi> has herein rendred You very Dear, and Esteem'd by your Country, it will Double all these Ties, if You will free their Hearts from this most Dreadful of all their other Fears, the Coming of more Foreign Troops <gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mongst Us, by a Bill, that no more Fo<g ref="char:EOLhyphen"/>reign Troops shall be imported into <hi>England,</hi> or <hi>Ireland,</hi> without Consent of Parliament; And likewise (unless some good Cause can be shewn to the contra<g ref="char:EOLhyphen"/>ry) that all the Foreign Troops now in <hi>England,</hi> should be sent back. And let <hi>England</hi> be Defended by <hi>Englishmen.</hi>
+            </p>
+            <p n="6">VI. BUT lastly (that I may trouble Your Honours no further) I humbly of<g ref="char:EOLhyphen"/>fer, Whether some Means may not be found out to End this so Expensive, and Threatning a War, wherein we have (May I not say <hi>Ʋnnecessarily</hi>) Engag'd our selves, and <hi>Causlesly</hi> continue, unless we have made a <hi>Demand,</hi> and that Rea<g ref="char:EOLhyphen"/>sonable <hi>Satisfaction</hi> has been Refused to Us, and to the rest of our <hi>Confederates.</hi>
+            </p>
+            <p>In order to which, May it not be proper for Your Honours to know what Propositions of Peace have been made by the <hi>French King</hi> to the <hi>Mediators</hi> for a Peace; the Kings of <hi>Denmark, Sweden,</hi> and <hi>Portugal;</hi> And that Your Honours should thereby Judge whether the <hi>Confederates,</hi> or any of them, have Rejected reasonable Terms, and upon what Considerations; that You may know in what Proportion you ought to Contribute to the War? And whether it be the War of <hi>England</hi> which the <hi>Confederates</hi> maintain (as they pretend) Or if <hi>England</hi> do but assist to Defend their Rights? For this will alter the Case exceedingly, and not lay a Burthen upon Us; so out of all purpose Disproportionable to what the other <hi>Confederates</hi> do Contribute; who, indeed do all live upon Us, and in<g ref="char:EOLhyphen"/>stead of <hi>Confederates</hi> or <hi>Allies,</hi> are <hi>Pensioners</hi> and <hi>Mercenaries,</hi> who declare, That they will fight no longer for Us, than we Pay them; For that they can have Peace when they please. And therefore, whether it be not High time for Us to make an End of this War, if we may have Terms, which are Honorable, and for the Interest of the Nation? How otherwise do we Propose to End this War? Not till we Conquer, or Drain <hi>France?</hi> But what if we be Drain'd first? How far are we from it? Is it the utmost that we Propose to our selves, to Live one Year longer? And not to think of <hi>Peace</hi> while we have One Penny left to Carry on the War? And what sort of <hi>Peace;</hi> or <hi>No
+<pb n="8" facs="tcp:64456:5"/>Peace</hi> shall we then obtain? Or will Peace Recover us, when we have Bled so far, as not to have Mony enough, which is our <hi>Blood,</hi> to circulate in our Veins? Surely a Remedy is to be thought on before that Dismal Day! And the Op<g ref="char:EOLhyphen"/>portunity is now in Your Honours hands. You know not if ever you have ano<g ref="char:EOLhyphen"/>ther. And therefore bethink your Selves in time, what your sinking <hi>Country,</hi> your <hi>Honour;</hi> what <hi>Justice,</hi> what <hi>Gratitude,</hi> what <hi>Conscience,</hi> and <hi>Religion;</hi> what <hi>GOD</hi> requires from you, in this Critical Juncture.</p>
+         </div>
+         <div type="documents">
+            <head>The Address of the Lords Spiritual and Temporal, in Parliament Assem<g ref="char:EOLhyphen"/>bled: Presented to His Majesty, the 23d of this instant <hi>February, 1692.</hi> With His Majesty<hi>'s Answer.</hi>
+            </head>
+            <div type="Parliamentary_order">
+               <p>ORdered by the <hi>Lords Spiritual</hi> and <hi>Temporal</hi> in Parliament Assembled, That the <hi>ADDRESS</hi> Presented to His <hi>MAJESTY</hi> yesterday by this House, and His <hi>Majesty's Answer</hi> thereunto, shall be Printed and Published.</p>
+               <closer>
+                  <signed>
+                     <hi>Matth. Johnson,</hi> Cler' Parliamentor'</signed>
+               </closer>
+            </div>
+            <div type="address">
+               <opener>
+                  <dateline>
+                     <date>Die Sabbati 18. Februarii, 1692.</date>
+                  </dateline>
+               </opener>
+               <p>WE the Lords Spiritual and Temporal in Parliament Assembled, Conceiving it to be Our Duty to Your Majesty, and the Kingdom, to Offer Our Opinion and Advice, upon Occasions of Importance relating to the Publick, and especially in this Conjuncture, Do Humbly lay before Your Majesty, for the present, these following Re<g ref="char:EOLhyphen"/>solutions of the House, which We conceive are highly Necessary to the Safety and Ho<g ref="char:EOLhyphen"/>nor of Your Majesty's Person and Government.</p>
+               <p>That the Chief Commander of the <hi>English</hi> Forces under Your Majesty, shall be a Subject Born in Your Majesty's Dominions.</p>
+               <p>That a Capitulation having been made in the Year <hi>1678,</hi> by which it was Agreed, That the <hi>English</hi> Commander, and Officer in every Degree, is to Command any other Confederate Officer of the same Rank, except those of Crown'd Heads, without any Regard to the Date of their Respective Commissions, It is the Humble Advice of this House, That the same Preference may be still Continued to Your Majesty's Officers, <hi>the contrary Practice in this last War, being, as we Conceive, to the Diminu<g ref="char:EOLhyphen"/>tion of the Honor that belongeth to the Crown of</hi> England, <hi>and to the gene<g ref="char:EOLhyphen"/>ral Dissatisfaction of Your Majesty's Subjects.</hi>
+               </p>
+               <p>That Twenty thousand <hi>English</hi> Soldiers should Remain in <hi>England,</hi> during the Year <hi>1693,</hi> and be under the Command of One of Your Majesty's Subjects, born in this Kingdom.</p>
+               <p>That no Foreigner shall be of the Board of Ordnance, or Keeper of the Stores in the <hi>Tower</hi> of <hi>London.</hi>
+               </p>
+               <p>That for Incouragement of the <hi>English,</hi> there may not be so many Strangers Imploy<g ref="char:EOLhyphen"/>ed in the Office of the Ordnance.</p>
+               <p>There having been many Abuses of late, under pretence of Pressing Men for the <hi>Fleet,</hi> It is the Humble Advice of this House, That Your Majesty will be pleased to give effe<g ref="char:EOLhyphen"/>ctual Order, That all those who have Committed any Offences of that kind, or shall Commit them for the future, may be immediately Cashiered, and Prosecuted with the ut<g ref="char:EOLhyphen"/>most Rigor of the Law.</p>
+            </div>
+            <div type="report">
+               <p>
+                  <hi>Feb. 24. 1692.</hi> The Speaker Reported His Majesty's Answer to the Address ye<g ref="char:EOLhyphen"/>sterday, <hi>That His Majesty said, He would take it into Consideration.</hi>
+               </p>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:64456:5"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
